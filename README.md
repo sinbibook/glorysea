@@ -1,1 +1,1 @@
-# glorysea
+# template-fullpage-visual
