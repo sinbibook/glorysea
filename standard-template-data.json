@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-07-03T02:55:55.044058850Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-07-03T02:58:46.112111128Z",
     "templateType": "fullpage_visual",
     "propertyId": "3c1449b3-928f-47f1-ad1d-892ec040c48b",
     "homepageId": "98876997-69d8-4b2a-9f7c-b46ad94eb858"
@@ -2246,6 +2246,42 @@
               "isSelected": true,
               "blockId": "684f6ea5-0df8-47cf-9492-085d59708389",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "47f8ef17-e13a-4c3c-ace9-c2e2413bb496",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/98876997-69d8-4b2a-9f7c-b46ad94eb858/roomtype_exterior/1783047523036-nun6bnwdv9.jpg",
+              "sortOrder": 12,
+              "description": "오션뷰",
+              "isSelected": true,
+              "blockId": "684f6ea5-0df8-47cf-9492-085d59708389",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "206a46e3-37ab-4551-87a9-adc5e377c806",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/98876997-69d8-4b2a-9f7c-b46ad94eb858/roomtype_exterior/1783047523068-qi0nipyktw.jpg",
+              "sortOrder": 13,
+              "description": "침실",
+              "isSelected": true,
+              "blockId": "684f6ea5-0df8-47cf-9492-085d59708389",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "b5ff2afc-ef11-4d3f-ab25-0de5b7eb20aa",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/98876997-69d8-4b2a-9f7c-b46ad94eb858/roomtype_exterior/1783047523064-h9gp460b9x.jpg",
+              "sortOrder": 14,
+              "description": "개별바베큐",
+              "isSelected": true,
+              "blockId": "684f6ea5-0df8-47cf-9492-085d59708389",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "c9dae74a-41a5-44e0-8266-97f6dcc5b4d0",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/98876997-69d8-4b2a-9f7c-b46ad94eb858/roomtype_exterior/1783047523066-mwhr03qj0o.jpg",
+              "sortOrder": 15,
+              "description": "객실",
+              "isSelected": true,
+              "blockId": "684f6ea5-0df8-47cf-9492-085d59708389",
+              "category": "roomtype_exterior"
             }
           ]
         }
